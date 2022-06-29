@@ -1,5 +1,7 @@
-**GrillToChill![WhatsApp Image 2022-05-15 at 9 15 48 PM](https://user-images.githubusercontent.com/94283961/168481807-2a1dba4e-27df-4195-9aa4-6a2ad4d3759e.jpeg)
+**GrillToChill!
 **
+
+
 
 Tech Stack Used
 
@@ -10,3 +12,8 @@ Tech Stack Used
 3-> JAVASCRIPT
 
 4-> REACT JS
+
+Here is a glimpse
+
+https://user-images.githubusercontent.com/94283961/176504571-7c51c602-a235-4ba4-a9e6-285cf0edba99.mp4
+
